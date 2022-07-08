@@ -1,0 +1,4 @@
+BEP20 is the Binance Smart Chain equivalent to the popular ERC20 specification for tokens on the Ethereum network.
+
+-The difference is the BEP20 Token isn't run on the Ethereum Network, but the Binance Smart Chain  network.  
+-Despite this difference, because BSC(Binance Smart Chain) implements the Ethereum Virtual Machine(EVM)  for all of their smart contracts, they end up being practically identical in both specification and  implementation.
